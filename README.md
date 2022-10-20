@@ -27,11 +27,11 @@
 ### Открываем Anaconda Promt и пишем команды для создания и активации нового ML агента
 
 ```bash
-conda create -n MLAgents python=3.6
+conda create -n MLAgent python=3.6
 ```
 
 ```bash
-conda activate MLAgents
+conda activate MLAgent
 ```
 
 ```bash
